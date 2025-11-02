@@ -92,6 +92,5 @@ sesi-14/
 - Semua test dijalankan secara lokal dan berhasil `passing`
 ```
 
----
 
-Kalau kamu mau, aku bisa bantu review isi PDF final atau bantu buat narasi penutupnya. Mau lanjut ke review PDF atau langsung submit ke LMS?
+
